@@ -1,0 +1,21 @@
+{
+  "name": "soundboard_app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A new Flutter project.",
+  "main": "tts-proxy.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
